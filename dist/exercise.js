@@ -12,4 +12,5 @@ const sumOfEvenNums = (numbers) => {
         }
     }
     return sum;
+    console.log("This is working!");
 };

@@ -1,7 +1,5 @@
 // Create a function that takes an array of numbers as 
 // input and returns the sum of all the even numbers in the array.
-
-
 const sumOfEvenNums = (numbers : number[]) : number => {
 
     if (numbers.length === undefined) {
@@ -18,4 +16,6 @@ const sumOfEvenNums = (numbers : number[]) : number => {
 
     return sum;
 
+
+    console.log("This is working!");
 }
