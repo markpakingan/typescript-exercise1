@@ -31,3 +31,4 @@ const isPalindrome = (word) => {
     let reversedWord = cleanedWord.split("").reverse().join("");
     return cleanedWord === reversedWord;
 };
+// #testing

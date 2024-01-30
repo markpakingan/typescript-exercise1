@@ -43,3 +43,6 @@ const isPalindrome = (word: string) => {
 
     return cleanedWord === reversedWord; 
 }
+
+
+// #testing
